@@ -2,9 +2,9 @@
 # 2019 Case Competition
 
 ## Team
-Junge Zhang
-Shiqing Li
-Tong Jin
+Junge Zhang,
+Shiqing Li,
+Tong Jin,
 
 ## School
 New York University
@@ -27,8 +27,6 @@ Q&A Session (weekly)
 Top 50 announcement
 
 ### ...
-
-#######
 
 ## Pipeline
 

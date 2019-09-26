@@ -1,5 +1,5 @@
 # 2019 Humana-Mays Healthcare Analytics
-# 2019 Case Competition
+## 2019 Case Competition
 
 ## Team
 Junge Zhang,

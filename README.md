@@ -4,7 +4,7 @@
 ## Team
 Junge Zhang,
 Shiqing Li,
-Tong Jin,
+Tong Jin
 
 ## School
 New York University

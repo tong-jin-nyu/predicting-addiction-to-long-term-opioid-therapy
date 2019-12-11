@@ -1,5 +1,7 @@
-# 2019 Humana-Mays Healthcare Analytics
-## 2019 Case Competition
+# 2019 Healthcare Analytics Case Compeition - Top 50 
+## Case description:
+Using Logistic Regression with Elastic Net and Random Forest Models to Predict Risks of Continued Long-term Opioid Therapy (LTOT)
+
 
 ## Team
 Junge Zhang,

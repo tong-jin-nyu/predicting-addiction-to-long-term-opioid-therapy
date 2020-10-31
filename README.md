@@ -48,3 +48,6 @@ Extend models and write reports.
 
 ### Step 5: (week 4 and 5)
 Report finalization.
+
+## Follow-up
+https://today.tamu.edu/2019/11/15/humana-mays-health-care-analytics-2019-case-competition-winners-announced/
